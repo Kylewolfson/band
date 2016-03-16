@@ -3,6 +3,10 @@
   width: 30%;
   margin-left: 15px;
   font-weight: bold;
+  padding: 10px;
+  border: 2px dotted gold;
+  margin: 5px;
+  background-color: rgba(0, 0, 100, .3);
 }
 .left {
   float: left;
@@ -11,4 +15,8 @@
 }
 .ticket {
   width: 250px;
+}
+
+img {
+  padding: 10px;
 }
